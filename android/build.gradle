@@ -52,7 +52,11 @@ android {
         }
     }
 }
-
+kotlin {
+        jvmToolchain {
+            languageVersion.set(JavaLanguageVersion.of(17)) // Use 17 or 1.8 to match your desired Java version
+    }
+}
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
