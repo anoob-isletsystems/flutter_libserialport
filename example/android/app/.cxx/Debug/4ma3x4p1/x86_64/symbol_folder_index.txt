@@ -1,0 +1,1 @@
+/Users/phenomtec/Documents/GitHub/flutter_libserialport/example/build/app/intermediates/cxx/Debug/4ma3x4p1/obj/x86_64

@@ -1,0 +1,2 @@
+/Users/phenomtec/Documents/GitHub/flutter_libserialport/example/android/app/.cxx/Debug/3o6i2720/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/phenomtec/Documents/GitHub/flutter_libserialport/example/android/app/.cxx/Debug/3o6i2720/armeabi-v7a/CMakeFiles/rebuild_cache.dir
